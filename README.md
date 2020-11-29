@@ -1,1 +1,1 @@
-# french-game-platform-application
+# French Game Platform: Android application
