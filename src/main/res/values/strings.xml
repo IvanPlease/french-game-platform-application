@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">French Game Platform</string>
+    <string name="platform_logo">Platform Logo</string>
+    <string name="settings_btn">Settings button</string>
+    <string name="map_btn">Map button</string>
+    <string name="quest_btn">Quest button</string>
+</resources>

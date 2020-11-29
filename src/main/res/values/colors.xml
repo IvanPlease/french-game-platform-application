@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="paletteBar">#45503B</color>
+    <color name="paletteBackground">#ACBFA4</color>
+    <color name="paletteText">#E5D0E3</color>
+    <color name="paletteBlue">#247BA0</color>
+    <color name="paletteLightBlue">#2B4570</color>
+
+</resources>
